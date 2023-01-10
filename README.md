@@ -22,6 +22,6 @@
 
 <p>
   <a href="https://www.frontendmentor.io/profile/frontendstu" target="new">
-    <img src="https://www.frontendmentor.io/static/images/logo-desktop.svg" alt="frontend mentor" width="300" />
+    <img src="https://www.frontendmentor.io/static/images/logo-desktop.svg" alt="frontend mentor" width="200" />
   </a>
 </p>
