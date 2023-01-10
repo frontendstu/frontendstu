@@ -2,6 +2,7 @@
 <h2 align="center">Frontend Web Developer</h2>
 
 - I love creating and learning cool new things
+- I really enjoy solving Frontend Mentor Challenges
 - I'm currently learning JavaScript
 - I enjoy exploring new CSS techniques
 
