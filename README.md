@@ -23,6 +23,6 @@
 
 <p>
   <a href="https://www.frontendmentor.io/profile/frontendstu">
-    <img src="https://www.frontendmentor.io/static/images/logo-desktop.svg" alt="frontend mentor" width="200" />
+    <img src="https://www.frontendmentor.io/images/logo-desktop.svg" alt="frontend mentor" width="200" />
   </a>
 </p>
